@@ -1,0 +1,168 @@
+{
+  "uuid": "dbcd1017-9126-4b93-a0cd-42f9647b2fd3",
+  "historyId": "f5ca474b0157f03b742bfcb799ddd4c7",
+  "testCaseId": "8dff43432d2dc2f57e4703dc2c8466ac",
+  "fullName": "src/main/java/cn/ianzhang/automation/features/EnterpriseReapplication.feature:3",
+  "labels": [
+    {
+      "name": "host",
+      "value": "LEE-tingting-2.local"
+    },
+    {
+      "name": "thread",
+      "value": "1790@LEE-tingting-2.local.main(1)"
+    },
+    {
+      "name": "feature",
+      "value": "企业复工申请资料提交表测试"
+    },
+    {
+      "name": "story",
+      "value": "提交企业复工申请"
+    },
+    {
+      "name": "suite",
+      "value": "企业复工申请资料提交表测试"
+    },
+    {
+      "name": "testClass",
+      "value": "提交企业复工申请"
+    },
+    {
+      "name": "framework",
+      "value": "cucumber4jvm"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "gherkin_uri",
+      "value": "file:///Users/mac/Desktop/open_automation_test_quiz-main/src/main/java/cn/ianzhang/automation/features/EnterpriseReapplication.feature"
+    },
+    {
+      "name": "package",
+      "value": "src.main.java.cn.ianzhang.automation.features.EnterpriseReapplication_feature.企业复工申请资料提交表测试"
+    }
+  ],
+  "links": [],
+  "name": "提交企业复工申请",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given 打开企业复工申请资料提交表页面",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1745419141688,
+      "stop": 1745419155688
+    },
+    {
+      "name": "When 在第一页选择\"连续生产/开工类企事业单位\"并点击下一页",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1745419155689,
+      "stop": 1745419155979
+    },
+    {
+      "name": "Then 第一页截图保存为\"page1_screenshot\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1745419155979,
+      "stop": 1745419155980
+    },
+    {
+      "name": "When 在第二页填写申请信息并点击下一页",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1745419155980,
+      "stop": 1745419155980
+    },
+    {
+      "name": "Then 第二页截图保存为\"page2_screenshot\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1745419155980,
+      "stop": 1745419155981
+    },
+    {
+      "name": "When 在第三页填写备案信息并提交",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1745419155981,
+      "stop": 1745419155981
+    },
+    {
+      "name": "Then 第三页截图保存为\"page3_screenshot\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1745419155981,
+      "stop": 1745419155981
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1745419141687,
+  "stop": 1745419155983
+}
